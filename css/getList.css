@@ -1,0 +1,12 @@
+
+table {
+    width:600px;
+}
+
+#list {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+th {text-align: center;
+}

@@ -1,0 +1,3 @@
+<?php
+echo "Item added";
+?>

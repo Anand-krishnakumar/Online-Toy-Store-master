@@ -1,0 +1,20 @@
+.thumb{
+    float: left;
+    width: 300px;
+    height: 250px;
+    margin: 5px;
+}
+a{
+    font-weight: bold;
+    font-size: 100%;
+    text-decoration: none;
+    color: #d91522;
+}
+
+a #red {
+font-weight: bold;
+    font-size: 100%;
+    text-decoration: none;
+    color: #d91522;
+	
+}

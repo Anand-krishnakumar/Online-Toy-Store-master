@@ -1,0 +1,25 @@
+
+h3,h2{
+    font-family: cursive;
+    color: green;
+    align: center;
+}
+a{
+    color: #e97171;
+    font-weight: bold;
+    font-family: inherit;
+    text-decoration: none;
+    alignment-adjust: middle;
+}
+a:hover{
+    text-decoration: underline;
+    color: cadetblue;
+}
+#sub{
+    alignment-adjust: middle;
+    background-color: #d91522 ;
+    padding: 20px;
+    border-radius: 25px;
+    align: center;
+}
+
